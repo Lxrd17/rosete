@@ -159,7 +159,6 @@ img{
   margin: 60px auto;
   color: var(--blanco);
 }
-
 .bar{
   background: var(--negro);
   display: block;
@@ -208,6 +207,9 @@ img{
     height: 100%;
   }
   .project-title h1{
+    font-size: 20px;
+  }
+  .study{
     font-size: 20px;
   }
   
